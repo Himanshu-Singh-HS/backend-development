@@ -3,6 +3,7 @@ from docx.shared import Inches,RGBColor
 from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
 from io import BytesIO
 import requests
+from doc1 import generate_response_to_doc
 
 doc = Document()
 base_url = "http://192.168.29.6:8000/api"

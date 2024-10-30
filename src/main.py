@@ -52,8 +52,8 @@ async def update_student(student_id: str, student_data: StudentCreate):
 
 @app.delete("/students/{student_id}")
 async def delete_student(student_id: str):
-    student = await Student.find_by_id(student_id)
+    student =   Student.get(student_id)
     if not student:
         raise HTTPException(status_code=404, detail="Student not found")
-    await student.delete()
+    student.delete()
     return {"message": "Student deleted successfully"}

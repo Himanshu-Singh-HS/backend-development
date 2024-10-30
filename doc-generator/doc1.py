@@ -1,6 +1,8 @@
 # from docx import Document
 # from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
 # from docx.shared import Pt
+# Inside doc-generator/doc_module.py
+ 
 
 # # Create a new Document object
 # doc = Document()

@@ -3,7 +3,7 @@
 from pymongo import MongoClient
 from bunnet import init_bunnet
 from .config import MONGODB_URI, DB_NAME
-from .models import Student
+from .models import  Student 
 
 client = MongoClient(MONGODB_URI)
 db = client[DB_NAME]
