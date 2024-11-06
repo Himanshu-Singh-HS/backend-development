@@ -16,7 +16,6 @@ data=json_data("./eP-pdf/ep.json")
 
 class PDFGenerator:
     def __init__(self):
-
         self.pdf = SimpleDocTemplate("ep-pdf.pdf", pagesize=letter, rightMargin=72, leftMargin=72, topMargin=72, bottomMargin=40)
         self.elements = []
         self.style_sheet = getSampleStyleSheet()        
