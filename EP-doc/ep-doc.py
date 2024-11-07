@@ -132,19 +132,19 @@ class DocGenerator:
         claims_run.font.name = 'Times New Roman'
         claims_run.font.size = Pt(10)
         
-        # # Claims
-        # for index, claim in enumerate(Data.get("claims", []), start=1):
-        #     claim_parts = claim.get('text', '').split('\n')
-        #     for part in claim_parts:
-        #         claim_paragraph = self.doc.add_paragraph()
-        #         if part == claim_parts[0]:
-        #             claim_run = claim_paragraph.add_run(f"{index}. ")
-        #             claim_run.font.name = 'Times New Roman'
-        #             claim_run.font.size = Pt(10)
-        #             claim_paragraph.add_run(' ' * 6)
-        #         claim_text_run = claim_paragraph.add_run(part)
-        #         claim_text_run.font.name = 'Times New Roman'
-        #         claim_text_run.font.size = Pt(10)
+        # Claims
+        for index, claim in enumerate(Data.get("claims", []), start=1):
+            claim_parts = claim.get('text', '').split('\n')
+            for part in claim_parts:
+                claim_paragraph = self.doc.add_paragraph()
+                if part == claim_parts[0]:
+                    claim_run = claim_paragraph.add_run(f"{index}. ")
+                    claim_run.font.name = 'Times New Roman'
+                    claim_run.font.size = Pt(10)
+                    claim_paragraph.add_run(' ' * 6)
+                claim_text_run = claim_paragraph.add_run(part)
+                claim_text_run.font.name = 'Times New Roman'
+                claim_text_run.font.size = Pt(10)
         
         # # Claims
         # line_count = 0  # Initialize line count
@@ -204,37 +204,6 @@ class DocGenerator:
         #         claim_text_run = claim_paragraph.add_run(part)
         #         claim_text_run.font.name = 'Times New Roman'
         #         claim_text_run.font.size = Pt(10)
-        line_count = 0   
-        for index, claim in enumerate(Data.get("claims", []), start=1):
-            claim_parts = claim.get('text', '').split('\n')
-            for part in claim_parts:
-                line_count += 1
-
-                # Create a new paragraph for each claim part
-                claim_paragraph = self.doc.add_paragraph()
-
-                # Add line number every 5th line outside of the content
-                if line_count % 5 == 1:  # Numbering starts at the beginning of every fifth set
-                    line_number = str(line_count)
-                    claim_paragraph.add_run(f"{line_number} ").font.size = Pt(10)
-
-                # Add the claim number for the first line of the claim part
-                if part == claim_parts[0]:
-                    claim_run = claim_paragraph.add_run(f"{index}. ")
-                    claim_run.font.name = 'Times New Roman'
-                    claim_run.font.size = Pt(10)
-
-                # Add the claim text without additional spacing
-                claim_text_run = claim_paragraph.add_run(part)
-                claim_text_run.font.name = 'Times New Roman'
-                claim_text_run.font.size = Pt(10)
-
-
- 
-
-
-
-
 
         
         # =============================================================================
@@ -279,12 +248,7 @@ class DocGenerator:
                             except Exception as e:
                                    logging.error(f"Unexpected error while processing image from {img_url}: {e}")
 
-        # # Add "Attorney Docket No." to the header
-        # section = self.doc.sections[0]
-        # header = section.header
-        # header_paragraph = header.add_paragraph()
-        # header_paragraph.alignment = WD_PARAGRAPH_ALIGNMENT.RIGHT
-        # header_paragraph.add_run("Attorney Docket No.")
+       
 
         # Function to add page numbering in header
         def add_page_numbering(doc):
@@ -315,7 +279,5 @@ class DocGenerator:
         self.doc.save("EP.doc")
         print("doc generated sucessfully ")
         
-
-
 doc=DocGenerator()
 doc.convert_json_to_doc_buffer(data)
