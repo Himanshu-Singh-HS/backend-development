@@ -31,28 +31,9 @@ class pdfgenerator:
             fontName='Times-Bold', 
             alignment=TA_CENTER      
         ) 
-        self.total_lines = 0  # Counter to keep track of total lines
-        self.lines_per_page = self.calculate_max_lines_per_page()  # Calculate max lines per page
-        self.lines_on_current_page = 0  # Track lines on the current page
-
-    def calculate_max_lines_per_page(self):
-        """Calculate the maximum number of lines that can fit on a page."""
-        page_height = letter[1] - 112  # Page height minus top and bottom margins
-        line_height = 20  # Line height (adjust based on your style settings)
-        return int(page_height // line_height)
-
-    def estimate_paragraph_lines(self, text, style):
-        # Estimate the number of lines for the paragraph by dividing its height by line height
-        line_height = style.leading
-        width, height = letter[0] - 144, letter[1] - 112  # Page size minus margins (left+right and top+bottom)
-        
-        # Create a temporary Paragraph to measure text height
-        para = Paragraph(text, style)
-        text_height = para.wrap(width, height)[1]  # Get the height the text will occupy
-        
-        num_lines = text_height // line_height  # Estimate number of lines
-        print(f"Estimating lines for text: '{text[:50]}...' - Estimated Height: {text_height}, Line Height: {line_height}, Estimated Lines: {num_lines}")
-        return int(num_lines)
+      
+  
+ 
 
     def add_justified_paragraph_with_numbering(self, text, first_Line_Indent=0):
         modified_style = ParagraphStyle(
@@ -67,24 +48,8 @@ class pdfgenerator:
         self.elements.append(Paragraph(text, modified_style))
         self.elements.append(Spacer(1, 12))  
         
-        # Estimate the number of lines for the added paragraph
-        lines = self.estimate_paragraph_lines(text, modified_style)
-        self.total_lines += lines
-        self.lines_on_current_page += lines
         
-        print(f"Added {lines} lines for paragraph: '{text[:50]}...'")  # Print number of lines added
         
-        # Check if the current page has exceeded the maximum lines
-        if self.lines_on_current_page >= self.lines_per_page:
-            print(f"Page limit reached: {self.lines_on_current_page} lines on this page.")
-            self.print_page_summary()  # Print the summary for the current page
-            self.lines_on_current_page = 0  # Reset for the next page
-
-    def print_page_summary(self):
-        """Print the summary of lines for the current page."""
-        print(f"Total lines on this page: {self.lines_on_current_page}")
-        print()
-        print()
 
     def convert_json_to_pdf_buffer(self, Data: dict) -> BytesIO:
         # Add title
@@ -182,11 +147,6 @@ class pdfgenerator:
             counter =  self.add_justified_paragraph_with_numbering(section)      
         self.pdf.build(self.elements)
         
-        # Final page summary if there are remaining lines
-        if self.lines_on_current_page > 0:
-            print(f"Total lines on the last page: {self.lines_on_current_page}")
-        
-        print(f"Total number of lines in the document (excluding title and headings): {self.total_lines}")
 
 pdf = pdfgenerator()
 pdf.convert_json_to_pdf_buffer(data)

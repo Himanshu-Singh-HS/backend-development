@@ -1,0 +1,22 @@
+{
+  "summaries": [
+    {
+      "ucid": "US-20230400196-A1",
+      "summary": "The invention provides a cost-effective and easy-to-install safety system for sewerage, drainage, and water disposal systems in both commercial and residential settings. It is versatile, suitable for various applications from small residential dwellings to large industrial systems. The preferred embodiment is compact, inexpensive, and simple to assemble, ensuring maximum safety and economic benefits with minimal labor and material investment. The system can be adapted for different configurations and applications beyond sewerage systems, with a service life of at least five years."
+    },
+    {
+      "ucid": "US-20230399940-A1",
+      "summary": "A method for determining hydraulic fracture properties involves analyzing pressure measurements in a well post pumping cessation. It includes identifying times for fluid leak off, fracture growth, pressure equilibration, and near wellbore pressure drop. Values for fluid efficiency, minimum stress, and net pressure are calculated to match pressure measurements accurately. A computer program is designed to execute these actions. The method involves calculating Carter leak off and pressure using a specific formula between different time segments."
+    },
+    {
+      "ucid": "US-20230400460-A1",
+      "summary": "A computer-implemented method for analyzing host-phage response data involves receiving a dataset with time series data for host-phage combinations, estimating lag time by fitting candidate functions, selecting the best fit function based on goodness of fit parameters, and reporting the lag time. The method includes using an ordered set of candidate functions like Gompertz, Logistic, and Richards functions, and applying a Blackman window function if initial fits fail. It also involves normalizing data based on a control curve, performing quality assurance on anomalous wells, and generating reports for each host-phage combination on a multi-well plate. The growth curve summary parameters include max height, slope, lag time, and area under the curve."
+    },
+    {
+      "ucid": "US-20230399779-A1",
+      "summary": "A flexible non-woven polymeric mat is disclosed for protecting pipelines, made from extruded strands of a polymer blend containing polyvinyl chloride (PVC) resin and olefin-based thermoplastic elastomer (TPE). The TPE content enhances the mat's modulus and tensile strength. The mat is devoid of nucleating and cross-linking agents, with extruded strands having specific gravity between 1.25 to 1.4. The method of making the mat involves extruding strands onto a rotating cylinder, with optional plasticizer and blowing agent additions. The disclosed mat exhibits superior properties compared to traditional PVC mats, with improved performance at various temperatures."
+    }
+  ]
+}
+
+
