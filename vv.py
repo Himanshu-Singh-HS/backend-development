@@ -51,3 +51,21 @@
 def convert_to_batches(lst, batch_size):
     return [lst[i : i + batch_size] for i in range(0, len(lst), batch_size)]
 
+data=[ "WO-2024241761-A1",
+    "WO-2024241762-A1",
+    "WO-2024242306-A1",
+    "WO-2024242904-A1",
+    "WO-2024242970-A1"
+    
+]
+print(len(data))
+# a=[]
+# for item in data:
+#     x,y,z = item.split("-")
+#     print(x,y,z)
+#     a.append(x+y)
+# print(a)
+a="WO-2024241762-A1"
+x,y,z=a.split('-') 
+print(x,y,z)
+print(x+y)
