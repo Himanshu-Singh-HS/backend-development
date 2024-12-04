@@ -162,7 +162,7 @@ import docx  # Import docx for XML manipulation
 
 # Create a new Document
 doc = Document()
-base_url = "http://192.168.29.6:8000/api"
+ 
 
 def generate_response_to_doc():
     url = f"{base_url}/v1/drafting/history_report?search_id=d4ccf0ca-807c-11ef-8c5d-0242ac120002"

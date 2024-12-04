@@ -228,7 +228,7 @@ def convert_json_to_pdf(Data: dict, output_filename: str):
     pdf.build(elements, onFirstPage=lambda canvas, doc: add_page_number_and_docket(canvas, doc, "Attorney Docket No. "),
               onLaterPages=lambda canvas, doc: add_page_number_and_docket(canvas, doc, "Attorney Docket No. "))
     print(f"{time.time()-start}:sec")
-convert_json_to_pdf(json_data, "./pdf-generator/output-pdf/suspended_himanshu.pdf")
+convert_json_to_pdf(json_data, "himanshu.pdf")
 
  
 

@@ -2,4 +2,15 @@ env/
 __pycache__/
 *.py[cod]
 localenv/
-.env
+.env/
+.rough/
+
+# Ignore environment-related files and directories
+env/
+localenv/
+.env/
+__pycache__/
+*.py[cod]
+aakash-work/
+
+xml/
