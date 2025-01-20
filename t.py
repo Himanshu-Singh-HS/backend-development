@@ -29,3 +29,4 @@ print("Logging complete. Check the 'test_log.log' file.")
 
 # Explicitly shut down the logging system to flush logs to the file
 logging.shutdown()
+

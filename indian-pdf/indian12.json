@@ -1,0 +1,350 @@
+{
+    "insert_timestamp": "2025-01-15T11:38:18+0000",
+    "last_update_timestamp": "2025-01-15T11:53:02+0000",
+    "_id": "67879e2a56123cc0299b2214",
+    "user_id": "test-user-uuid-12345",
+    "search_id": "36e8a82a-d335-11ef-a481-16223d31431d",
+    "claims": [
+      {
+        "text": "A flat opposed cylinder engine system, characterized in that it comprises:\na first bank of cylinders (801);\na second bank of cylinders (802);\na crankshaft (803, 900) having a plurality of paired throws (901), wherein two throws of each respective pair of throws are disposed adjacent to each other and coplanar with respect to each other;\nwherein the first bank of cylinders and the second bank of cylinders are arranged in a flat, opposed cylinder configuration.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "A flat opposed cylinder engine system, characterized in that it comprises:\na first bank of cylinders (801);\na second bank of cylinders (802);\na crankshaft (803, 900) having a plurality of paired throws (901), wherein two throws of each respective pair of throws are disposed adjacent to each other and coplanar with respect to each other;\nwherein the first bank of cylinders and the second bank of cylinders are arranged in a flat, opposed cylinder configuration."
+          }
+        ],
+        "index": 1,
+        "claim_type": "system",
+        "tag": "independent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "The flat opposed cylinder engine system of claim 1, wherein the (801)first bank of cylinders and the (802)second bank of cylinders are horizontally opposed to each other.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The flat opposed cylinder engine system of claim 1, wherein the (801)first bank of cylinders and the (802)second bank of cylinders are horizontally opposed to each other."
+          }
+        ],
+        "index": 2,
+        "claim_type": "system",
+        "tag": "dependent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "The flat opposed cylinder engine system of claim 1, wherein the (803, 900)crankshaft further comprises a counterweight disposed between the (901)paired throws.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The flat opposed cylinder engine system of claim 1, wherein the (803, 900)crankshaft further comprises a counterweight disposed between the (901)paired throws."
+          }
+        ],
+        "index": 3,
+        "claim_type": "system",
+        "tag": "dependent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "The flat opposed cylinder engine system of claim 1, further comprising a lubrication system configured to provide lubrication to the (901)paired throws of the (803, 900)crankshaft.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The flat opposed cylinder engine system of claim 1, further comprising a lubrication system configured to provide lubrication to the (901)paired throws of the (803, 900)crankshaft."
+          }
+        ],
+        "index": 4,
+        "claim_type": "system",
+        "tag": "dependent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "The flat opposed cylinder engine system of claim 1, wherein the (801)first bank of cylinders and the (802)second bank of cylinders are configured to operate in a horizontally opposed configuration.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The flat opposed cylinder engine system of claim 1, wherein the (801)first bank of cylinders and the (802)second bank of cylinders are configured to operate in a horizontally opposed configuration."
+          }
+        ],
+        "index": 5,
+        "claim_type": "system",
+        "tag": "dependent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "The flat opposed cylinder engine system of claim 1, wherein the engine further comprises a cooling system including a plurality of cooling fins arranged around the cylinders of the (801)first bank and the (802)second bank.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The flat opposed cylinder engine system of claim 1, wherein the engine further comprises a cooling system including a plurality of cooling fins arranged around the cylinders of the (801)first bank and the (802)second bank."
+          }
+        ],
+        "index": 6,
+        "claim_type": "system",
+        "tag": "dependent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "The flat opposed cylinder engine system of claim 1, wherein the engine further comprises a fuel injection system configured to inject fuel into the cylinders of the (801)first bank and the (802)second bank.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The flat opposed cylinder engine system of claim 1, wherein the engine further comprises a fuel injection system configured to inject fuel into the cylinders of the (801)first bank and the (802)second bank."
+          }
+        ],
+        "index": 7,
+        "claim_type": "system",
+        "tag": "dependent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "The flat opposed cylinder engine system of claim 1, wherein the engine further comprises an ignition system configured to ignite fuel in the cylinders of the (801)first bank and the (802)second bank.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The flat opposed cylinder engine system of claim 1, wherein the engine further comprises an ignition system configured to ignite fuel in the cylinders of the (801)first bank and the (802)second bank."
+          }
+        ],
+        "index": 8,
+        "claim_type": "system",
+        "tag": "dependent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "A method of assembling an engine (800), the method comprising:\nproviding two banks of cylinders (801, 802) in a flat, opposed cylinder arrangement;\nproviding a crankshaft (803, 900) having a plurality of paired throws (901);\narranging the two throws of each respective pair of throws adjacent to each other and coplanar with respect to each other;\ncharacterized in that the paired throws are arranged in a manner to reduce the overall engine size and improve the engine's balance and performance.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "A method of assembling an engine (800), the method comprising:\nproviding two banks of cylinders (801, 802) in a flat, opposed cylinder arrangement;\nproviding a crankshaft (803, 900) having a plurality of paired throws (901);\narranging the two throws of each respective pair of throws adjacent to each other and coplanar with respect to each other;\ncharacterized in that the paired throws are arranged in a manner to reduce the overall engine size and improve the engine's balance and performance."
+          }
+        ],
+        "index": 9,
+        "claim_type": "method",
+        "tag": "independent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "The method of assembling an engine according to claim 9, wherein the paired throws (901) are arranged in a manner to reduce the overall engine size, improve the engine's balance and performance, and provide for a more compact engine design.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The method of assembling an engine according to claim 9, wherein the paired throws (901) are arranged in a manner to reduce the overall engine size, improve the engine's balance and performance, and provide for a more compact engine design."
+          }
+        ],
+        "index": 10,
+        "claim_type": "method",
+        "tag": "dependent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "The method of assembling an engine according to claim 9, wherein the paired throws (901) are arranged in a manner to reduce the overall engine size, improve the engine's balance and performance, and provide for a more efficient use of space within the engine compartment.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The method of assembling an engine according to claim 9, wherein the paired throws (901) are arranged in a manner to reduce the overall engine size, improve the engine's balance and performance, and provide for a more efficient use of space within the engine compartment."
+          }
+        ],
+        "index": 11,
+        "claim_type": "method",
+        "tag": "dependent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "The method of assembling an engine according to claim 9, wherein the paired throws (901) are arranged in a manner to reduce the overall engine size, improve the engine's balance and performance, and provide for a more effective power distribution between the cylinders.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The method of assembling an engine according to claim 9, wherein the paired throws (901) are arranged in a manner to reduce the overall engine size, improve the engine's balance and performance, and provide for a more effective power distribution between the cylinders."
+          }
+        ],
+        "index": 12,
+        "claim_type": "method",
+        "tag": "dependent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "The method of assembling an engine according to claim 9, wherein the paired throws (901) are arranged in a manner to reduce the overall engine size, improve the engine's balance and performance, and provide for a more uniform distribution of forces within the engine.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The method of assembling an engine according to claim 9, wherein the paired throws (901) are arranged in a manner to reduce the overall engine size, improve the engine's balance and performance, and provide for a more uniform distribution of forces within the engine."
+          }
+        ],
+        "index": 13,
+        "claim_type": "method",
+        "tag": "dependent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "The method of assembling an engine according to claim 9, wherein the paired throws (901) are arranged in a manner to reduce the overall engine size, improve the engine's balance and performance, and provide for a more efficient exhaust gas scavenging process.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The method of assembling an engine according to claim 9, wherein the paired throws (901) are arranged in a manner to reduce the overall engine size, improve the engine's balance and performance, and provide for a more efficient exhaust gas scavenging process."
+          }
+        ],
+        "index": 14,
+        "claim_type": "method",
+        "tag": "dependent",
+        "generated_figures_data": null
+      },
+      {
+        "text": "The method of assembling an engine according to claim 9, wherein the paired throws (901) are arranged in a manner to reduce the overall engine size, improve the engine's balance and performance, and provide for a more effective cooling of the cylinders.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The method of assembling an engine according to claim 9, wherein the paired throws (901) are arranged in a manner to reduce the overall engine size, improve the engine's balance and performance, and provide for a more effective cooling of the cylinders."
+          }
+        ],
+        "index": 15,
+        "claim_type": "method",
+        "tag": "dependent",
+        "generated_figures_data": null
+      }
+    ],
+    "list_of_figures": [],
+    "description": {
+      "provided_desc": {
+        "text_list": [
+          "As shown in Fig. 1, the figure illustrates a detailed representation of an engine configuration embodying the present invention. The engine comprises two banks of cylinders, designated as Bank A and Bank B, arranged in a flat, opposed cylinder configuration. Each bank contains a series of cylinders oriented to allow for efficient combustion and power generation.\n\nThe crankshaft, referenced as Crankshaft 1, is a component of the engine, featuring a plurality of paired throws. Each pair of throws is positioned adjacent to one another and is coplanar, ensuring synchronized movement and balance during operation. The arrangement of the paired throws facilitates the transfer of power generated from the combustion process to the drivetrain of the vehicle.\n\nThe configuration of the two banks of cylinders in opposition to each other serves to minimize vibrations and enhance the stability of the engine. This design choice contributes to performance and efficiency, aligning with the objectives of the invention."
+        ],
+        "current_v_index": 1,
+        "list_version": [
+          {
+            "index": 1,
+            "text_list": [
+              "As shown in Fig. 1, the figure illustrates a detailed representation of an engine configuration embodying the present invention. The engine comprises two banks of cylinders, designated as Bank A and Bank B, arranged in a flat, opposed cylinder configuration. Each bank contains a series of cylinders oriented to allow for efficient combustion and power generation.\n\nThe crankshaft, referenced as Crankshaft 1, is a component of the engine, featuring a plurality of paired throws. Each pair of throws is positioned adjacent to one another and is coplanar, ensuring synchronized movement and balance during operation. The arrangement of the paired throws facilitates the transfer of power generated from the combustion process to the drivetrain of the vehicle.\n\nThe configuration of the two banks of cylinders in opposition to each other serves to minimize vibrations and enhance the stability of the engine. This design choice contributes to performance and efficiency, aligning with the objectives of the invention."
+            ]
+          }
+        ]
+      },
+      "invention_desc": {
+        "text": "The Balanced Engine Configuration with Coplanar Crankshaft Throws is a design that enhances the performance and efficiency of internal combustion engines. This engine comprises two banks of cylinders arranged in a flat, opposed cylinder configuration. The positioning of the cylinders allows for balance and symmetry in the engine's operation.\n\nThe invention includes a crankshaft featuring a series of paired throws. Each pair consists of two throws positioned next to each other and lying in the same plane. This coplanar arrangement of the crankshaft throws distinguishes this engine design from traditional configurations.\n\nThe coplanar layout of the crankshaft throws improves the engine's balance and reduces vibrations during operation. The alignment of the throws in the same plane facilitates smoother rotation and enhanced stability, leading to efficient power delivery.\n\nThe firing order of the cylinders is synchronized to ensure performance. The firing sequence is controlled to maximize power output while minimizing vibrations and noise, resulting in refined and efficient engine operation suitable for various applications.\n\nThe coplanar crankshaft throws contribute to a compact engine design, reducing overall size and weight. This compactness improves the engine's efficiency and enhances its versatility for use in vehicles and machinery where space is limited.\n\nThe balanced engine configuration with coplanar crankshaft throws provides advantages over traditional engine designs. By optimizing balance, synchronization, and compactness, this invention offers a reliable, efficient, and high-performance power source for diverse applications.\n\nThe Balanced Engine Configuration with Coplanar Crankshaft Throws represents an advancement in internal combustion engine technology. Its design and features provide a solution for enhancing engine performance and efficiency across industries.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "The Balanced Engine Configuration with Coplanar Crankshaft Throws is a design that enhances the performance and efficiency of internal combustion engines. This engine comprises two banks of cylinders arranged in a flat, opposed cylinder configuration. The positioning of the cylinders allows for balance and symmetry in the engine's operation.\n\nThe invention includes a crankshaft featuring a series of paired throws. Each pair consists of two throws positioned next to each other and lying in the same plane. This coplanar arrangement of the crankshaft throws distinguishes this engine design from traditional configurations.\n\nThe coplanar layout of the crankshaft throws improves the engine's balance and reduces vibrations during operation. The alignment of the throws in the same plane facilitates smoother rotation and enhanced stability, leading to efficient power delivery.\n\nThe firing order of the cylinders is synchronized to ensure performance. The firing sequence is controlled to maximize power output while minimizing vibrations and noise, resulting in refined and efficient engine operation suitable for various applications.\n\nThe coplanar crankshaft throws contribute to a compact engine design, reducing overall size and weight. This compactness improves the engine's efficiency and enhances its versatility for use in vehicles and machinery where space is limited.\n\nThe balanced engine configuration with coplanar crankshaft throws provides advantages over traditional engine designs. By optimizing balance, synchronization, and compactness, this invention offers a reliable, efficient, and high-performance power source for diverse applications.\n\nThe Balanced Engine Configuration with Coplanar Crankshaft Throws represents an advancement in internal combustion engine technology. Its design and features provide a solution for enhancing engine performance and efficiency across industries."
+          }
+        ]
+      },
+      "system_desc": {
+        "text_list": [
+          "The present invention relates to a flat opposed cylinder engine system. The system comprises a first bank of cylinders and a second bank of cylinders, arranged in a flat, opposed cylinder configuration. The engine system includes a crankshaft having a plurality of paired throws, where two throws of each pair are positioned adjacent to each other and coplanar with respect to each other. Additionally, the first bank of cylinders and the second bank of cylinders are horizontally opposed to each other, providing a balanced engine configuration.\n\nFurthermore, the crankshaft of the flat opposed cylinder engine system includes a counterweight disposed between the paired throws, enhancing the balance and reducing vibrations during operation. The system also incorporates a lubrication system configured to provide lubrication to the paired throws of the crankshaft, ensuring smooth operation and longevity of the engine components.\n\nIn addition, the engine system includes a cooling system comprising a plurality of cooling fins arranged around the cylinders of the first and second banks. This cooling system helps in maintaining the optimal operating temperature of the engine during its operation. Moreover, the engine system is equipped with a fuel injection system that is configured to inject fuel into the cylinders of the first and second banks, ensuring efficient fuel delivery and combustion.\n\nThe engine system further comprises an ignition system that is configured to ignite fuel in the cylinders of the first and second banks, enabling efficient and timely combustion. The coplanar arrangement of the crankshaft throws, along with the horizontally opposed configuration of the cylinder banks, contributes to a balanced engine design, reducing vibrations and enhancing overall performance."
+        ],
+        "current_v_index": 1,
+        "list_version": [
+          {
+            "index": 1,
+            "text_list": [
+              "The present invention relates to a flat opposed cylinder engine system. The system comprises a first bank of cylinders and a second bank of cylinders, arranged in a flat, opposed cylinder configuration. The engine system includes a crankshaft having a plurality of paired throws, where two throws of each pair are positioned adjacent to each other and coplanar with respect to each other. Additionally, the first bank of cylinders and the second bank of cylinders are horizontally opposed to each other, providing a balanced engine configuration.\n\nFurthermore, the crankshaft of the flat opposed cylinder engine system includes a counterweight disposed between the paired throws, enhancing the balance and reducing vibrations during operation. The system also incorporates a lubrication system configured to provide lubrication to the paired throws of the crankshaft, ensuring smooth operation and longevity of the engine components.\n\nIn addition, the engine system includes a cooling system comprising a plurality of cooling fins arranged around the cylinders of the first and second banks. This cooling system helps in maintaining the optimal operating temperature of the engine during its operation. Moreover, the engine system is equipped with a fuel injection system that is configured to inject fuel into the cylinders of the first and second banks, ensuring efficient fuel delivery and combustion.\n\nThe engine system further comprises an ignition system that is configured to ignite fuel in the cylinders of the first and second banks, enabling efficient and timely combustion. The coplanar arrangement of the crankshaft throws, along with the horizontally opposed configuration of the cylinder banks, contributes to a balanced engine design, reducing vibrations and enhancing overall performance."
+            ]
+          }
+        ]
+      },
+      "method_desc": {
+        "text": "Step 800 of figure 0 involves the method of assembling an engine by providing two banks of cylinders in a flat, opposed cylinder arrangement. This arrangement ensures that the cylinders are positioned in a parallel and opposing manner, which is a crucial aspect of the engine design. The flat configuration of the cylinders allows for a more compact engine design, optimizing space utilization and facilitating a balanced layout for improved performance.\n\nIn step 801, the method includes providing a crankshaft for the engine, which comprises a plurality of paired throws. These throws are essential components of the crankshaft responsible for converting the reciprocating motion of the pistons into rotational motion. Each pair of throws consists of two throws that are positioned adjacent to each other and coplanar with respect to each other. This coplanar arrangement is a unique feature of the invention, contributing to the reduction in overall engine size and enhancing the balance of the engine.\n\nStep 802 focuses on arranging the two throws of each respective pair of throws adjacent to each other and coplanar with respect to each other. This specific configuration plays a significant role in optimizing the engine's performance by ensuring that the paired throws are aligned in a precise and balanced manner. The coplanar arrangement of the throws contributes to reducing vibrations and improving the overall balance of the engine during operation, leading to enhanced efficiency and smoother functionality.\n\nThe paired throws in step 901 are strategically arranged to reduce the overall size of the engine while simultaneously enhancing its balance and performance. This innovative design feature sets the engine apart from conventional configurations by offering a more compact and efficient solution for power generation. The coplanar alignment of the throws not only improves the engine's balance but also contributes to minimizing energy losses and maximizing power output, making it a highly effective and reliable engine design.\n\nThe method described in step 902 emphasizes the importance of the paired throws being arranged in a specific manner to achieve the desired reduction in engine size and enhancement in balance and performance. By carefully positioning the throws adjacent to each other and ensuring they are coplanar, the engine's overall efficiency and operational stability are significantly improved. This meticulous arrangement of the paired throws showcases the innovative approach taken in the design and assembly of the engine, highlighting its advanced engineering principles and focus on optimizing functionality.",
+        "current_v_index": 1,
+        "version": [
+          {
+            "index": 1,
+            "text": "Step 800 of figure 0 involves the method of assembling an engine by providing two banks of cylinders in a flat, opposed cylinder arrangement. This arrangement ensures that the cylinders are positioned in a parallel and opposing manner, which is a crucial aspect of the engine design. The flat configuration of the cylinders allows for a more compact engine design, optimizing space utilization and facilitating a balanced layout for improved performance.\n\nIn step 801, the method includes providing a crankshaft for the engine, which comprises a plurality of paired throws. These throws are essential components of the crankshaft responsible for converting the reciprocating motion of the pistons into rotational motion. Each pair of throws consists of two throws that are positioned adjacent to each other and coplanar with respect to each other. This coplanar arrangement is a unique feature of the invention, contributing to the reduction in overall engine size and enhancing the balance of the engine.\n\nStep 802 focuses on arranging the two throws of each respective pair of throws adjacent to each other and coplanar with respect to each other. This specific configuration plays a significant role in optimizing the engine's performance by ensuring that the paired throws are aligned in a precise and balanced manner. The coplanar arrangement of the throws contributes to reducing vibrations and improving the overall balance of the engine during operation, leading to enhanced efficiency and smoother functionality.\n\nThe paired throws in step 901 are strategically arranged to reduce the overall size of the engine while simultaneously enhancing its balance and performance. This innovative design feature sets the engine apart from conventional configurations by offering a more compact and efficient solution for power generation. The coplanar alignment of the throws not only improves the engine's balance but also contributes to minimizing energy losses and maximizing power output, making it a highly effective and reliable engine design.\n\nThe method described in step 902 emphasizes the importance of the paired throws being arranged in a specific manner to achieve the desired reduction in engine size and enhancement in balance and performance. By carefully positioning the throws adjacent to each other and ensuring they are coplanar, the engine's overall efficiency and operational stability are significantly improved. This meticulous arrangement of the paired throws showcases the innovative approach taken in the design and assembly of the engine, highlighting its advanced engineering principles and focus on optimizing functionality."
+          }
+        ]
+      }
+    },
+    "background": {
+      "text": "The development of internal combustion engines has been a cornerstone of modern transportation and power generation. The crankshaft, a fundamental component of these engines, converts reciprocating motion into rotational motion, thereby enabling the generation of mechanical power. A typical crankshaft comprises a series of throws, with each throw corresponding to a specific cylinder in the engine. In the context of a four-cylinder engine, the crankshaft is designed with four throws, each representing a distinct power stroke. Notably, the configuration of the throws plays a pivotal role in determining the engine's performance and operational characteristics.\n\nIn the existing state-of-the-art, a common arrangement involves a first pair of throws, encompassing two of the four throws, with these two throws being adjacent and lying within the same plane. This configuration is crucial for ensuring the synchronized operation of the engine and the balanced distribution of power. However, a limitation arises from the coplanar nature of the first pair of throws, which may lead to undesirable vibrations and imbalances during engine operation. Furthermore, the plane of the first pair is typically disposed orthogonally with respect to the plane of a subsequent pair of throws, influencing the overall dynamics and efficiency of the engine.\n\nThe coplanar arrangement of the first pair of throws, while providing a degree of symmetry and simplicity, can result in uneven torque distribution and vibration issues, ultimately impacting the smoothness and longevity of the engine. Additionally, the orthogonal disposition of the planes of the throws may introduce complexities in the engine's design and operation, potentially leading to suboptimal performance and increased mechanical stresses. These drawbacks underscore the need for an enhanced crankshaft design that addresses the limitations associated with the existing configurations, aiming to optimize the balance, efficiency, and operational smoothness of the engine.\n\nIn conclusion, while the conventional arrangement of a crankshaft with a first pair of coplanar throws and orthogonal planes has been instrumental in powering numerous internal combustion engines, it is imperative to acknowledge the inherent drawbacks and limitations of this configuration. By recognizing the challenges posed by vibration, torque distribution, and operational dynamics, the pursuit of an improved crankshaft design becomes essential, with the goal of enhancing the overall performance and reliability of internal combustion engines.",
+      "current_v_index": 1,
+      "version": [
+        {
+          "index": 1,
+          "text": "The development of internal combustion engines has been a cornerstone of modern transportation and power generation. The crankshaft, a fundamental component of these engines, converts reciprocating motion into rotational motion, thereby enabling the generation of mechanical power. A typical crankshaft comprises a series of throws, with each throw corresponding to a specific cylinder in the engine. In the context of a four-cylinder engine, the crankshaft is designed with four throws, each representing a distinct power stroke. Notably, the configuration of the throws plays a pivotal role in determining the engine's performance and operational characteristics.\n\nIn the existing state-of-the-art, a common arrangement involves a first pair of throws, encompassing two of the four throws, with these two throws being adjacent and lying within the same plane. This configuration is crucial for ensuring the synchronized operation of the engine and the balanced distribution of power. However, a limitation arises from the coplanar nature of the first pair of throws, which may lead to undesirable vibrations and imbalances during engine operation. Furthermore, the plane of the first pair is typically disposed orthogonally with respect to the plane of a subsequent pair of throws, influencing the overall dynamics and efficiency of the engine.\n\nThe coplanar arrangement of the first pair of throws, while providing a degree of symmetry and simplicity, can result in uneven torque distribution and vibration issues, ultimately impacting the smoothness and longevity of the engine. Additionally, the orthogonal disposition of the planes of the throws may introduce complexities in the engine's design and operation, potentially leading to suboptimal performance and increased mechanical stresses. These drawbacks underscore the need for an enhanced crankshaft design that addresses the limitations associated with the existing configurations, aiming to optimize the balance, efficiency, and operational smoothness of the engine.\n\nIn conclusion, while the conventional arrangement of a crankshaft with a first pair of coplanar throws and orthogonal planes has been instrumental in powering numerous internal combustion engines, it is imperative to acknowledge the inherent drawbacks and limitations of this configuration. By recognizing the challenges posed by vibration, torque distribution, and operational dynamics, the pursuit of an improved crankshaft design becomes essential, with the goal of enhancing the overall performance and reliability of internal combustion engines."
+        }
+      ]
+    },
+    "summary": {
+      "text": "The engine described in this invention features a unique configuration with two banks of cylinders arranged in a flat, opposed cylinder layout. Additionally, the crankshaft of this engine is designed with paired throws, where each pair of throws is positioned adjacent to each other and lies on the same plane. This arrangement of cylinders and crankshaft throws sets this engine apart from conventional designs, offering potential advantages in terms of performance and efficiency.",
+      "current_v_index": 1,
+      "version": [
+        {
+          "index": 1,
+          "text": "The engine described in this invention features a unique configuration with two banks of cylinders arranged in a flat, opposed cylinder layout. Additionally, the crankshaft of this engine is designed with paired throws, where each pair of throws is positioned adjacent to each other and lies on the same plane. This arrangement of cylinders and crankshaft throws sets this engine apart from conventional designs, offering potential advantages in terms of performance and efficiency."
+        }
+      ]
+    },
+    "abstract": {
+      "text": "An engine featuring two banks of cylinders arranged in a flat, opposed configuration, complemented by a crankshaft with multiple paired throws. Each pair of throws is positioned adjacent to one another and coplanar, enhancing balance and efficiency in operation. This design optimizes the engine's performance characteristics while maintaining a compact structure, suitable for various applications requiring reliable power delivery and reduced vibrations.",
+      "current_v_index": 1,
+      "version": [
+        {
+          "index": 1,
+          "text": "An engine featuring two banks of cylinders arranged in a flat, opposed configuration, complemented by a crankshaft with multiple paired throws. Each pair of throws is positioned adjacent to one another and coplanar, enhancing balance and efficiency in operation. This design optimizes the engine's performance characteristics while maintaining a compact structure, suitable for various applications requiring reliable power delivery and reduced vibrations."
+        }
+      ],
+      "about_invention": "As the invention is related to 'Machine, apparatus, system', so you can mention about its nature, use; construction, organization, elements and operation"
+    },
+    "technical_field": {
+      "text": "The present invention relates to the field of automotive engineering, particularly in the design and configuration of engines with a flat, opposed cylinder arrangement and a unique crankshaft structure featuring paired throws.",
+      "current_v_index": 1,
+      "version": [
+        {
+          "index": 1,
+          "text": "The present invention relates to the field of automotive engineering, particularly in the design and configuration of engines with a flat, opposed cylinder arrangement and a unique crankshaft structure featuring paired throws."
+        }
+      ]
+    },
+    "title": {
+      "text": "Balanced Engine Configuration with Coplanar Crankshaft Throws",
+      "current_v_index": 1,
+      "version": [
+        {
+          "index": 1,
+          "text": "Balanced Engine Configuration with Coplanar Crankshaft Throws"
+        },
+        {
+          "index": 2,
+          "text": "Flat Opposed Cylinder Engine with Paired Crankshaft Throws"
+        },
+        {
+          "index": 3,
+          "text": "Vibration-Reduced Engine Featuring Paired Cylinder Throws"
+        },
+        {
+          "index": 4,
+          "text": "Efficient Power Delivery Engine with Opposed Cylinder Arrangement"
+        },
+        {
+          "index": 5,
+          "text": "Compact Engine Design with Dual Cylinder Banks"
+        }
+      ]
+    },
+    "components": "800. Flat Opposed Cylinder Engine System\n    801. First Bank of Cylinders\n    802. Second Bank of Cylinders\n    803. Crankshaft\n        804. Paired Throws\n            805. Adjacent Throws\n            806. Coplanar Throws",
+    "status": "Completed",
+    "user_description_components": [],
+    "objective_of_invention": {
+      "text": "The objective of the invention is to provide a novel crankshaft design that addresses the problem of uneven power distribution in traditional crankshafts with four throws. The invention aims to create a crankshaft with a first pair of throws that are adjacent, coplanar, and orthogonally disposed with respect to a plane of a second pair of throws. This design aims to improve the balance and distribution of power in the engine, leading to smoother operation and reduced vibration. The invention's precise engineering and configuration aim to optimize the performance of internal combustion engines. Additionally, the invention may open up possibilities for further advancements in engine efficiency and performance.",
+      "current_v_index": 1,
+      "version": [
+        {
+          "index": 1,
+          "text": "The objective of the invention is to provide a novel crankshaft design that addresses the problem of uneven power distribution in traditional crankshafts with four throws. The invention aims to create a crankshaft with a first pair of throws that are adjacent, coplanar, and orthogonally disposed with respect to a plane of a second pair of throws. This design aims to improve the balance and distribution of power in the engine, leading to smoother operation and reduced vibration. The invention's precise engineering and configuration aim to optimize the performance of internal combustion engines. Additionally, the invention may open up possibilities for further advancements in engine efficiency and performance."
+        }
+      ]
+    }
+  }
