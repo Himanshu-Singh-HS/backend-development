@@ -26,6 +26,7 @@ print(my_dict,type(my_dict))
 print("himnahusbdndr")
 
 
-# The reason you don’t see the outer quotes printed when you use print(json_string) is because Python doesn’t print the quotes of a string when you use print(). It just prints the content of the string itself.
+# The reason you don’t see the outer quotes printed when you use print(json_string) is because Python doesn’t print the quotes of a string when you use print(). It just prints the content of the string itseyoutulf.
 
 # In both cases (manual JSON string and the string produced by json.dumps()), the printed result will look like JSON without the surrounding quotes, because that’s what a string’s value is when printed in Python.
+

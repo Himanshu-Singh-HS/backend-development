@@ -1,17 +1,17 @@
-# class student:
-#     def __init__(self,name):
-#         self.name=name
-#     def printname(self):
-#         print(f"hello {self.name}!")
-# s=student("singh")
-# s.printname()
+class student:
+    def __init__(self,name):
+        self.name=name
+    def printname(self):
+        print(f"hello {self.name}!")
+s=student("singh")
+s.printname()
 
 
-# def new_function_name(g):
-#     print("yes  this is monkey patching ",g.name)
-# student.printname=new_function_name
+def new_function_name(g):
+    print("yes  this is monkey patching ",g.name)
+student.printname=new_function_name
 
-# s.printname()  
+s.printname()  
 
 
 def is_valid_parentheses(expression):
